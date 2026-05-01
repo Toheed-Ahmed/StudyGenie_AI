@@ -1,5 +1,7 @@
 # StudyGenie AI 🧞‍♂️
 
+👉 **[Test the Socratic Engine Live Here](https://study-genie-ai-eight.vercel.app/)**
+
 **The first cognitive learning engine that understands your intent through Socratic dialogue and verified mastery.**
 
 StudyGenie AI moves beyond passive content consumption. It employs the Socratic method to guide you through complex topics, identifying logical gaps in real-time and pushing you toward true conceptual mastery.
@@ -16,6 +18,9 @@ Most learning platforms focus on *what* to memorize. StudyGenie AI focuses on *h
 
 ### 🧠 Socratic Tutor
 The heart of StudyGenie. Engage in a deep-dive conversation where the AI doesn't just give answers, but asks the right questions to lead you to discovery.
+
+👉 **[Test the Socratic Engine Live Here](https://study-genie-ai-eight.vercel.app/)**
+
 - **Dynamic Mastery Score:** Tracks your level of understanding in real-time.
 - **Solution Unlocking:** Comprehensive solutions stay hidden until you prove your logic.
 - **Multi-modal Support:** Seamlessly switch between text and voice logic sessions.
