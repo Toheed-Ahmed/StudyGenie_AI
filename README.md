@@ -19,8 +19,6 @@ Most learning platforms focus on *what* to memorize. StudyGenie AI focuses on *h
 ### 🧠 Socratic Tutor
 The heart of StudyGenie. Engage in a deep-dive conversation where the AI doesn't just give answers, but asks the right questions to lead you to discovery.
 
-👉 **[Test the Socratic Engine Live Here](https://study-genie-ai-eight.vercel.app/)**
-
 - **Dynamic Mastery Score:** Tracks your level of understanding in real-time.
 - **Solution Unlocking:** Comprehensive solutions stay hidden until you prove your logic.
 - **Multi-modal Support:** Seamlessly switch between text and voice logic sessions.
